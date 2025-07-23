@@ -1,0 +1,15 @@
+{
+    "name": "core/dependence",
+    "autoload": {
+        "psr-4": {
+            "Core\\Dependence\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Papa Sidy Fall",
+            "email": "papasidyfall03@gmail.com"
+        }
+    ],
+    "require": {}
+}
