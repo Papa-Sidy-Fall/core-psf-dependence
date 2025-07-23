@@ -1,5 +1,5 @@
 {
-    "name": "psf/dependence",
+    "name": "psfcore/dependence",
     "autoload": {
         "psr-4": {
             "Core\\Dependence\\": "src/"
